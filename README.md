@@ -2,6 +2,8 @@
 
 ![PieroNarciso's github stats](https://github-readme-stats.vercel.app/api?username=PieroNarciso&show_icons=true&theme=gruvbox&count_private=true)
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+
 <!--
 **PieroNarciso/PieroNarciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
