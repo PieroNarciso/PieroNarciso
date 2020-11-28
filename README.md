@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Tech-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tech-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tech-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tech-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a" />
