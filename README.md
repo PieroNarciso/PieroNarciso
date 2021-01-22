@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a" />
 </p>
 
-![PieroNarciso's github stats](https://github-readme-stats.vercel.app/api?username=PieroNarciso&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true)
+![PieroNarciso's github stats](https://github-readme-stats.vercel.app/api?username=PieroNarciso&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true)
 
 
 
