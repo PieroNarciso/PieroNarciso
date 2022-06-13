@@ -4,24 +4,24 @@
 ## 🔧 Techologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Lang-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
+   <img src="https://img.shields.io/badge/Lang-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Lang-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Lang-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tool-GCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tool-GCloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=2bbc8a" />
 </p>
 
 ![PieroNarciso's github stats](https://github-readme-stats.vercel.app/api?username=PieroNarciso&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true)
