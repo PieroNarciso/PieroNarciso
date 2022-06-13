@@ -10,26 +10,18 @@
 </p>
 
 <p align="center">
+   <img src="https://img.shields.io/badge/Lang-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tech-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tech-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tech-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tech-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tool-GCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a" />
 </p>
 
 ![PieroNarciso's github stats](https://github-readme-stats.vercel.app/api?username=PieroNarciso&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true)
